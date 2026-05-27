@@ -192,4 +192,5 @@ Through this project, I improved my understanding of:
 
 # 📸 Dashboard Preview
 
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/analystmanasi/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard.png)
+
